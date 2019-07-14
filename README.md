@@ -9,3 +9,7 @@
 - firebase authr 
 - realtime chat 
 - CRUD for firebase
+
+```
+change google-services.json with your's.
+```
