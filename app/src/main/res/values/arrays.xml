@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="facebook_permission_array">
+        <item>public_profile</item>
+        <item>user_friends</item>
+        <item>user_photos</item>
+        <item>user_likes</item>
+        <item>user_birthday</item>
+        <item>user_relationship_details</item>
+        <item>user_education_history</item>
+        <item>user_work_history</item>
+    </string-array>
+
+</resources>

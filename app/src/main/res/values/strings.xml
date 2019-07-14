@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resources [<!ENTITY appname "ImComingDear"><!ENTITY version "1.0">]>
+
+
+<resources>
+
+    <string name="app_name">&appname;</string>
+
+    <!-- Strings related to activities -->
+    <string name="settings_activity">Settings</string>
+
+    <string name="edit_profile_activity">Edit profile</string>
+    <string name="fragment_photos">Photos</string>
+    <string name="fragment_details">Details</string>
+
+    <string name="discovery_settings_activity">Searching for</string>
+
+
+
+    <!-- Strings related to menus -->
+    <string name="title_discovery">Discovery</string>
+    <string name="title_chat">Chats</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="search">Search</string>
+
+    <string name="facebook_app_id">488750868173710</string>
+    <string name="fb_login_protocol_scheme">fb488750868173710</string>
+
+    <!-- Strings related to SharedPreferences -->
+    <string name="userid">USERid</string>
+
+    <!-- Strings related to LoginFragment -->
+    <string name="login_fragment_email_empty">Email can\'t be empty</string>
+    <string name="login_fragment_password_empty">Password can\'t be empty</string>
+    <string name="login_fragment_email_invalid">Invalid email</string>
+    <string name="login_fragment_confirmation_password">Passwords do not match</string>
+
+    <!-- Strings related to fragment_login -->
+    <string name="login_activity_email">Email</string>
+    <string name="login_activity_password">Password</string>
+    <string name="login_activity_confirm">Confirm password</string>
+    <string name="login_activity_login">Sign In</string>
+    <string name="login_activity_forgot">Forgot your password?</string>
+    <string name="login_activity_or_login">Or Sign In with Email</string>
+    <string name="login_activity_facebook">Sign In with Facebook</string>
+    <string name="login_activity_register">Don\'t have an Account?</string>
+    <string name="login_activity_register_button">Register Now</string>
+
+    <!-- Strings related to activity_user_detailuser -->
+    <string name="activity_user_description">About me</string>
+    <string name="activity_user_work">Current work</string>
+    <string name="activity_user_college">College</string>
+    <string name="activity_user_song">Favorite song</string>
+
+    <!-- Strings related to fragment_conversation -->
+    <string name="conversation_fragment_matches">New matches</string>
+    <string name="conversation_fragment_messages">Messages</string>
+
+    <!-- Strings related to activity_chat -->
+    <string name="activity_chat_hint">Write a message</string>
+
+    <!-- Strings related to activity_settings -->
+    <string name="activity_settings_notifications">Notifications</string>
+    <string name="activity_settings_match">New match</string>
+    <string name="activity_settings_message">Message</string>
+    <string name="activity_settings_vibration">Vibration</string>
+    <string name="activity_settings_legal">Legal</string>
+    <string name="activity_settings_policy">Privacy police</string>
+    <string name="activity_settings_terms">Terms and conditions</string>
+    <string name="activity_settings_share">Share Wetswipe</string>
+    <string name="activity_settings_sign_out">Sign out</string>
+    <string name="activity_settings_version">Version &version;</string>
+    <string name="activity_settings_delete">Delete account</string>
+
+    <!-- Strings related to activity_discovery_settings -->
+    <string name="activity_discovery_settings_sex">Sex</string>
+    <string name="activity_discovery_settings_man">Man</string>
+    <string name="activity_discovery_settings_woman">Woman</string>
+    <string name="activity_discovery_settings_both">Both</string>
+    <string name="activity_discovery_settings_age">Age range</string>
+    <string name="activity_discovery_settings_show">Show me</string>
+    <string name="activity_discovery_settings_distance">Maximum distance</string>
+    <string name="activity_discovery_settings_using">Using &appname; in</string>
+    <string name="activity_discovery_settings_position">My current location</string>
+
+    <!-- Strings related to fragment_profile -->
+    <string name="fragment_profile_edit">Edit profile</string>
+
+    <!-- Strings related to fragment_dialog_match -->
+    <string name="fragment_dialog_match">dialog</string>
+    <string name="fragment_dialog_match_match">It\'s a Match!</string>
+    <string name="fragment_dialog_match_cancel">Continue searching</string>
+    <string name="fragment_dialog_match_conversation">Start conversation</string>
+
+
+    <!-- Strings related to intent extras -->
+    <string name="intent_extra_user">user</string>
+
+</resources>
