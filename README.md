@@ -1,6 +1,6 @@
 # ImComingDear
 
-"ImComingDear" is a android application what is semiller clone of tenda . user can sign in and sweap card to find his or her matching .
+"ImComingDear" is a android application what is similar clone of tender . user can sign in and sweap card to find his or her matching .
 
 
 # what i learned
